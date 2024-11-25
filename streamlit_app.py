@@ -107,7 +107,7 @@ def main():
             st.header("Session #1 - The Foundations")
             st.markdown("""
             **Date**: December 13, 2024  
-            **Time**: 9:30 AM CET/8:30 AM UTC
+            **Time**: 9:30 AM CET/8:30 AM UTC     
             **Duration**: 90 minutes
             """)
 
@@ -128,7 +128,7 @@ def main():
             st.header("Session #2 - Generative Integration")
             st.markdown("""
             **Date**: December 20, 2024  
-            **Time**: 9:30 AM CET/8:30 AM UTC
+            **Time**: 9:30 AM CET/8:30 AM UTC     
             **Duration**: 90 minutes
             """)
 

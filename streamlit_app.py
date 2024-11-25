@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 
 def show_registration_form():
-    session_1_date = "Platform Deep Dive (Dec 12, 10:00 AM PST)"
-    session_2_date = "GenAI Solutions (Dec 18, 11:00 AM PST)"
+    session_1_date = "Platform Deep Dive (Dec 13, 9:30 AM CET)"
+    session_2_date = "GenAI Solutions (Dec 20, 9:30 AM CET)"
     
     st.subheader("Webinar Registration")
     
